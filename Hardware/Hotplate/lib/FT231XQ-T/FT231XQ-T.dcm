@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT231XQ-T
+D USB-to-UART 1-CH 512byte FIFO 5V 20-Pin QFN EP Tray
+K
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf
+$ENDCMP
+#
+#End Doc Library
